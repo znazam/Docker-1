@@ -1,1 +1,1 @@
-docker-machine ssh Char "docker service rm marines orbital-command"
+docker-machine ssh Char "docker service rm marines orbital-command engineering-bay"

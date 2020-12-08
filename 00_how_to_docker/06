@@ -1,1 +1,1 @@
-docker run --restart unless-stopped --name overlord -p 80:5000 -d nginx
+docker run --restart always --name overlord -p 80:5000 -d nginx
